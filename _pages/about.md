@@ -24,8 +24,7 @@ My work will be supported by a four-years scholarship granted by the [IGGI progr
 
 ## Research interest
 
-My goal is to develop algorithms to power causality driven AI systems.
-
+My goal is to derive statistically efficient and flexible control algorithms.
 
 ## Free time
 
