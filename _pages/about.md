@@ -3,7 +3,7 @@ permalink: /
 layout : single
 title: "Welcome"
 excerpt: "About me"
-description: Michelangelo Conserva is currently an MSc student at UCL
+description: Michelangelo Conserva is PhD student @GAIG_QMUL
 keywords: homepage, Michelangelo, Conserva
 author_profile: true
 redirect_from: 
@@ -15,24 +15,23 @@ Hello, I am Michelangelo!
 
 ## Now
 
-I am currently finishing my MSc in Computational Statistics and Machine learning ([CSML](http://www.csml.ucl.ac.uk/)) at University College of London. As part of the [Statistical Machine Learning Group](https://sml-group.cc/#people), I am developing a new kernel for partially ranked data under the supervision of [Marc Deisenroth](https://deisenroth.cc) and [Sesh Kumar](https://seshkumar.github.io).
+I am a PhD student [@GAIG_QMUL](https://gaigresearch.github.io/) under the supervision of [Simon Lucas](http://www.eecs.qmul.ac.uk/profiles/lucassimon.html) and [Paulo Rauber](http://paulorauber.com/).
+My work is supported by a four-years scholarship granted by the [IGGI programme](http://iggi.org.uk/).
 
+## Past
 
-In September I will start my PhD in the [GameAI group](https://gaigresearch.github.io/) at Queen Mary University of London under the supervision of [Simon Lucas](http://www.eecs.qmul.ac.uk/profiles/lucassimon.html).
-My work will be supported by a four-years scholarship granted by the [IGGI programme](http://iggi.org.uk/).
+I obtained an MSc in Computational Statistics and Machine learning ([CSML](http://www.csml.ucl.ac.uk/)) from University College of London where I joined the [Statistical Machine Learning Group](https://sml-group.cc/#people).
+Together with [Marc Deisenroth](https://deisenroth.cc) and [Sesh Kumar](https://seshkumar.github.io), we developed a new kernel for ranked data.
+
+I hold a BSc in Statistics, Economics and Finance cum laude from Sapienza University of Rome. For my BSc dissertation I worked with [Anna Conte](https://www.dss.uniroma1.it/it/dipartimento/persone/conte-anna) to investigating the connection between Reinforcement Learning and Game Theory.
 
 
 ## Research interest
 
-My goal is to develop algorithms to power causality driven AI systems.
+My goal is to develop statistically sound and flexible control algorithms.
 
 
 ## Free time
 
 In my free time I enjoy playing grand strategy games like the one from Paradox and Total War series.
-I also love cooking and reading interesting books, you can find a list of books I suggest [here]({{ base_path }}/books).
-
-
-
-
-
+I also love cooking and reading interesting books.

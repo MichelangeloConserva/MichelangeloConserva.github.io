@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Michelangelo Conserva"
   avatar           : "photo.jpg"
-  bio              : "CSML MSC at UCL student"
+  bio              : "PhD student @GameAIQMUL"
   location         : "London, UK"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mi.conserva@gmail.com"
-  uniemail         : "michelangelo.conserva.19@ucl.ac.uk"
+  uniemail         : "m.conserva@qmul.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
