@@ -28,7 +28,7 @@ I hold a BSc in Statistics, Economics and Finance cum laude from Sapienza Univer
 
 ## Research interest
 
-My goal is to develop statistically sound and flexible control algorithms.
+My goal is to derive statistically efficient and flexible control algorithms.
 
 
 ## Free time
